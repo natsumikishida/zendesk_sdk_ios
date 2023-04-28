@@ -363,3 +363,7 @@ em{font-style: italic;}
 .wysiwyg-color-pink110 { color: darken(#f0f, 10%); }
 .wysiwyg-color-pink120 { color: darken(#f0f, 20%); }
 .wysiwyg-color-pink130 { color: darken(#f0f, 30%); }
+footer {
+    display: none;
+}
+
